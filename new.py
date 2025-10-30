@@ -1,4 +1,4 @@
-Name = ["ali is very pagal"]
+Name = ["ali is walikumsalam pagal"]
 
 command = "assalamualikum"
 
